@@ -173,7 +173,7 @@ footer.page-footer {
 
 
 .event1 {
-  background-image: url("https://secure.meetupstatic.com/photos/event/7/e/e/c/highres_471332492.jpeg");
+  background-image: url("../img/hackdemocracy.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -191,7 +191,7 @@ footer.page-footer {
 }
 
 .event3 {
-  background-image: url("http://www.travelingwiththejones.com/wp/wp-content/uploads/2013/12/IMG_7576.jpg");
+  background-image: url("../img/card-img.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
