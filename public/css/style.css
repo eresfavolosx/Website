@@ -173,7 +173,7 @@ footer.page-footer {
 
 
 .event1 {
-  background-image: url("../img/hackdemocracy.jpg");
+  background-image: url("../img/Komodo101WorkshopHeader.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -182,7 +182,7 @@ footer.page-footer {
 }
 
 .event2 {
-  background-image: url("http://www.travelingwiththejones.com/wp/wp-content/uploads/2013/12/IMG_7576.jpg");
+  background-image: url("../img/events/CryptoMondays.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -191,12 +191,17 @@ footer.page-footer {
 }
 
 .event3 {
-  background-image: url("../img/card-img.png");
+  background-image: url("../img/events/cryptoHappyHour.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   border-radius: 10px 10px 0 0;
   min-height: 200px;
+}
+
+.fullImage {
+  height: 100vw;
+  width: auto;
 }
 
 .card-title {
