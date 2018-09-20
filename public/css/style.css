@@ -173,7 +173,7 @@ footer.page-footer {
 
 
 .event1 {
-  background-image: url("../img/Komodo101WorkshopHeader.png");
+  background-image: url("../img/events/DestinoHack.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -400,6 +400,13 @@ align-items: center; */
   color: black;
 }
 
+.row-top-buttons {
+  margin-top: 60px;
+  max-width: 500px;
+  width: 100%;
+  height: 50px;
+}
+
 #download-button {
   text-decoration: none;
   background-color: #FF0000 !important;
@@ -409,6 +416,18 @@ align-items: center; */
 #download-button:hover {
   text-decoration: none;
   background-color: #FF0000 !important;
+  color: white !important;
+}
+
+@media (max-width: 600px){
+  #donate-button {
+    margin-bottom: 24px;
+  }
+}
+
+#donate-button {
+  text-decoration: none;
+  background-color: #009CD8 !important;
   color: white !important;
 }
 
