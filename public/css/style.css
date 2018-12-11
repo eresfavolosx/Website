@@ -21,7 +21,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 80vh;
+  min-height: 90vh;
   line-height: normal;
   height: auto;
   color: rgba(255, 255, 255, .9);
@@ -50,7 +50,8 @@ p {
     margin-top: 48px;
   }
   .social-icons {
-    height: 32px !important;
+    height: 64px !important;
+    margin-bottom: 32px;
   }
 }
 
@@ -58,6 +59,10 @@ p {
   .hero-title {
     font-weight: 600;
     font-size: 3em !important;
+  }
+
+  .social-icons {
+      margin-bottom: 24px;
   }
 }
 
@@ -173,7 +178,7 @@ footer.page-footer {
 
 
 .event1 {
-  background-image: url("../img/events/DestinoHack.jpg");
+  background-image: url("/img/events/SocialMediaFlyer.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
